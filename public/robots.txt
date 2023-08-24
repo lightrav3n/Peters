@@ -1,0 +1,3 @@
+Host: https://peters.lzf.ro
+User-agent: *
+Allow: /
